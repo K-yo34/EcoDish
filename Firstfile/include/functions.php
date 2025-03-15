@@ -76,6 +76,7 @@ function getCartCount() {
  * @return string Formatted price
  */
 function formatPrice($price) {
-    return '$' . number_format($price, 2);
+    // Changed from $ to Rs
+    return 'Rs' . number_format($price, 2);
 }
 ?>
