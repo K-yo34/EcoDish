@@ -2,7 +2,7 @@ How to make it work
 
 1. Install XAMPP
 2. Start the Apache and MySQL
-3. Create a new folder named `ecodish` in `htdocs`(if you have installed XAMPP, you can find the htdocs folder there)
+3. Create a new folder named `ecodish` in `htdocs`(if you have installed XAMPP, you can find the htdocs folder in C:\xampp\htdocs)
 4. Copy all the provided files in `ecodish` folder
 
 To Create Database of this website:
